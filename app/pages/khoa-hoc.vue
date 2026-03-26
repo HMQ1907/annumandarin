@@ -33,6 +33,6 @@
 <script setup>
 import { useScrollReveal } from '~/composables/useScrollReveal'
 
-useHead({ title: 'Khóa Học - AnNu English' })
+useHead({ title: 'Khóa Học - Annu Mandarin' })
 useScrollReveal()
 </script>

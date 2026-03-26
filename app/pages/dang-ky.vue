@@ -8,6 +8,6 @@
 <script setup>
 import { useScrollReveal } from '~/composables/useScrollReveal'
 
-useHead({ title: 'Đăng Ký Khóa Học - AnNu English' })
+useHead({ title: 'Đăng Ký Khóa Học - Annu Mandarin' })
 useScrollReveal()
 </script>

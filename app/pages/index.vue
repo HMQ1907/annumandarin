@@ -29,7 +29,7 @@ import { useScrollReveal } from '~/composables/useScrollReveal'
 
 // Set meta for homepage
 useHead({
-  title: 'AnNu English - Khởi Đầu Hoàn Hảo Cho Con',
+  title: 'Annu Mandarin - Khởi Đầu Hoàn Hảo Cho Con',
   meta: [
     { name: 'description', content: 'Trung tâm tiếng Anh online với 100% giáo viên bản xứ, trải nghiệm học bứt phá cho trẻ em.' }
   ]

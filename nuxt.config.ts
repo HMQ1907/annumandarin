@@ -8,7 +8,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'AnNu Mandarin - Trung Tâm Tiếng Anh Online Cho Trẻ Em',
+      title: 'Annu Mandarin - Trung Tâm Tiếng Anh Online Cho Trẻ Em',
       htmlAttrs: { lang: 'vi' },
       meta: [
         { charset: 'utf-8' },
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
           name: 'description',
           content: 'Trung tâm tiếng Anh online hàng đầu dành cho trẻ em. Giáo viên bản xứ, phương pháp hiện đại, lộ trình chuẩn quốc tế.'
         },
-        { property: 'og:title', content: 'AnNu Mandarin - Trung Tâm Tiếng Anh Online Cho Trẻ Em' },
+        { property: 'og:title', content: 'Annu Mandarin - Trung Tâm Tiếng Anh Online Cho Trẻ Em' },
         { property: 'og:description', content: 'Trung tâm tiếng Anh online hàng đầu dành cho trẻ em.' },
         { property: 'og:type', content: 'website' }
       ],

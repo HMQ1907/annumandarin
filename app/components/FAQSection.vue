@@ -38,7 +38,7 @@
       <!-- Support CTA -->
       <div class="mt-16 bg-gradient-to-r from-indigo-50 to-pink-50 rounded-[2rem] p-8 md:p-12 text-center border border-white shadow-xl">
         <h3 class="text-2xl font-bold text-indigo-950 mb-3">Vẫn Còn Câu Hỏi?</h3>
-        <p class="text-gray-600 mb-8 max-w-lg mx-auto">Đội ngũ chuyên viên tư vấn của AnNu English luôn sẵn sàng giải đáp và định hướng lộ trình tốt nhất.</p>
+        <p class="text-gray-600 mb-8 max-w-lg mx-auto">Đội ngũ chuyên viên tư vấn của Annu Mandarin luôn sẵn sàng giải đáp và định hướng lộ trình tốt nhất.</p>
         <div class="flex flex-col sm:flex-row justify-center gap-4">
           <NuxtLink to="/dang-ky" class="btn-primary">
             Đăng Ký Tư Vấn Ngay
@@ -69,7 +69,7 @@ const faqs = [
   },
   {
     question: 'Giáo viên có đổi liên tục giữa khóa không?',
-    answer: 'AnNu English cam kết 1 lớp sẽ do 1 giáo viên phụ trách xuyên suốt toàn khóa học (khóa 6 tháng) để duy trì sự thấu hiểu tâm lý và gắn kết giữa thầy trò.'
+    answer: 'Annu Mandarin cam kết 1 lớp sẽ do 1 giáo viên phụ trách xuyên suốt toàn khóa học (khóa 6 tháng) để duy trì sự thấu hiểu tâm lý và gắn kết giữa thầy trò.'
   },
   {
     question: 'Nếu bé bận nghỉ buổi thì có được học bù?',

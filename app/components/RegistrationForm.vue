@@ -84,7 +84,7 @@
             </div>
             <h3 class="text-3xl font-bold text-indigo-950 mb-4">Đăng Ký Thành Công!</h3>
             <p class="text-gray-600 text-lg mb-8 max-w-md">
-              Cảm ơn ba mẹ đã tin tưởng AnNu English. Đội ngũ tư vấn sẽ liên hệ qua số điện thoại <b class="text-indigo-600">{{ form.phone }}</b> trong thời gian sớm nhất.
+              Cảm ơn ba mẹ đã tin tưởng Annu Mandarin. Đội ngũ tư vấn sẽ liên hệ qua số điện thoại <b class="text-indigo-600">{{ form.phone }}</b> trong thời gian sớm nhất.
             </p>
             <button @click="resetForm" class="btn-secondary">
               Gửi Thêm Yêu Cầu

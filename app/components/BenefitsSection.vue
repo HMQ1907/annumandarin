@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <span class="section-badge">TẠI SAO CHỌN CHÚNG TÔI</span>
-        <h2 class="section-heading">Điểm Khác Biệt Của <span class="gradient-text">AnNu</span></h2>
+        <h2 class="section-heading">Điểm Khác Biệt Của <span class="gradient-text">Annu Mandarin</span></h2>
         <p class="section-desc">Môi trường hoàn hảo để trẻ phát triển song ngữ tự nhiên như ngôn ngữ mẹ đẻ.</p>
       </div>
 

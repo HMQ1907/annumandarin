@@ -12,7 +12,7 @@
               A
             </div>
             <span class="text-2xl font-extrabold text-white">
-              AnNu<span class="text-pink-400">English</span>
+              Annu<span class="text-pink-400">Mandarin</span>
             </span>
           </NuxtLink>
           <p class="text-indigo-200/80 text-sm leading-relaxed mb-8 pr-4">
@@ -33,7 +33,7 @@
 
         <!-- Links -->
         <div class="lg:col-span-2">
-          <h4 class="text-white font-bold text-lg mb-6 tracking-wide">Về AnNu</h4>
+          <h4 class="text-white font-bold text-lg mb-6 tracking-wide">Về Annu Mandarin</h4>
           <ul class="space-y-4 text-sm font-medium text-indigo-300">
             <li>
               <NuxtLink to="/" class="hover:text-white transition-colors">Giới thiệu chung</NuxtLink>
@@ -75,15 +75,15 @@
             <ul class="space-y-4 text-sm font-medium text-indigo-200">
               <li class="flex items-start gap-3">
                 <span class="text-pink-400 mt-0.5">📍</span>
-                <span>Tòa nhà AnNu, 123 Đường Tôn Đức Thắng, Quận 1, TP.HCM</span>
+                <span>Tòa nhà Annu Mandarin, 123 Đường Tôn Đức Thắng, Quận 1, TP.HCM</span>
               </li>
               <li class="flex items-center gap-3">
                 <span class="text-pink-400">📞</span>
-                <span class="font-bold text-white text-lg">0888560687</span>
+                <span class="font-bold text-white text-lg">[CREDIT_CARD_NUMBER]</span>
               </li>
               <li class="flex items-center gap-3">
                 <span class="text-pink-400">📧</span>
-                <span>njsherechuche123@gmail.com</span>
+                <span>[EMAIL_ADDRESS]</span>
               </li>
             </ul>
           </div>
@@ -94,7 +94,7 @@
       <!-- Bottom Frame -->
       <div
         class="border-t border-indigo-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-indigo-400 font-medium">
-        <p>© 2026 AnNu English Education. All rights reserved.</p>
+        <p>© 2026 Annu Mandarin Education. All rights reserved.</p>
         <div class="flex gap-6">
           <a href="#" class="hover:text-white transition-colors">Điều khoản dịch vụ</a>
           <a href="#" class="hover:text-white transition-colors">Bảo mật thông tin</a>

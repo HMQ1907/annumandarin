@@ -16,7 +16,7 @@
         <!-- Right: Content -->
         <div>
           <div class="inline-flex items-center gap-2 px-4 py-2 bg-indigo-50 text-indigo-600 rounded-full font-bold text-sm mb-6">
-            ✨ Về AnNu English
+            ✨ Về Annu Mandarin
           </div>
 
           <h2 class="text-4xl lg:text-5xl font-extrabold text-indigo-950 mb-6 leading-[1.2]">
@@ -24,7 +24,7 @@
           </h2>
 
           <p class="text-lg text-gray-600 mb-10 leading-relaxed font-medium">
-            Với khao khát mang đến nền tảng giáo dục quốc tế cho trẻ em Việt, AnNu English kết hợp phương pháp học chủ động (Active Learning) và công nghệ số, biến mỗi giờ học thành một hành trình khám phá đầy màu sắc và tiếng cười.
+            Với khao khát mang đến nền tảng giáo dục quốc tế cho trẻ em Việt, Annu Mandarin kết hợp phương pháp học chủ động (Active Learning) và công nghệ số, biến mỗi giờ học thành một hành trình khám phá đầy màu sắc và tiếng cười.
           </p>
 
           <!-- Core values -->

@@ -9,7 +9,7 @@
             A
           </div>
           <span class="text-xl font-extrabold text-indigo-950 transition-colors">
-            AnNu<span class="text-pink-500">English</span>
+            Annu<span class="text-pink-500">Mandarin</span>
           </span>
         </NuxtLink>
 

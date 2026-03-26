@@ -4,7 +4,7 @@
       <div class="text-center mb-16">
         <span class="section-badge bg-white shadow-sm">KẾT QUẢ THỰC TẾ</span>
         <h2 class="section-heading">Niềm Tin Từ <span class="gradient-text">Phụ Huynh</span></h2>
-        <p class="section-desc">Hơn 5000 gia đình đã tin tưởng trao gửi tương lai ngôn ngữ của con tại AnNu English.</p>
+        <p class="section-desc">Hơn 5000 gia đình đã tin tưởng trao gửi tương lai ngôn ngữ của con tại Annu Mandarin.</p>
       </div>
 
       <div class="grid md:grid-cols-3 gap-8 relative z-10">
@@ -64,7 +64,7 @@ const reviews = [
     role: 'Phụ huynh bé Tí Bo (9 tuổi)',
     avatar: '👨',
     bgClass: 'bg-indigo-400',
-    content: 'Đợt rồi con thi Movers đạt 15 khiên tối đa. Gia đình rất bất ngờ vì bình thường bé rụt rè, giờ lại mạnh dạn nói tiếng Anh với người nước ngoài. Cảm ơn AnNu!'
+    content: 'Đợt rồi con thi Movers đạt 15 khiên tối đa. Gia đình rất bất ngờ vì bình thường bé rụt rè, giờ lại mạnh dạn nói tiếng Anh với người nước ngoài. Cảm ơn Annu Mandarin!'
   },
   {
     name: 'Chị Thu Phương',

@@ -20,6 +20,6 @@
 <script setup>
 import { useScrollReveal } from '~/composables/useScrollReveal'
 
-useHead({ title: 'Đội Ngũ - AnNu English' })
+useHead({ title: 'Đội Ngũ - Annu Mandarin' })
 useScrollReveal()
 </script>
