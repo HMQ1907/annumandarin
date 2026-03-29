@@ -4,7 +4,7 @@
       <div class="text-center mb-16">
         <span class="section-badge">ĐỘI NGŨ CHUYÊN GIA</span>
         <h2 class="section-heading">Người Truyền Lửa Tận Tâm</h2>
-        <p class="section-desc">100% giáo viên bản xứ đạt chuẩn quốc tế (TESOL, CELTA), thấu hiểu tâm lý trẻ và luôn biến giờ học thành những kỷ niệm vui.</p>
+        <p class="section-desc">100% giáo viên giàu kinh nghiệm thực tiễn đạt chuẩn quốc tế (HSK, TOCFL), thấu hiểu tâm lý trẻ và luôn biến giờ học thành hành trình khám phá.</p>
       </div>
 
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -49,44 +49,44 @@
 <script setup>
 const teachers = [
   {
-    name: 'Sarah Johnson',
+    name: 'Vương Hiểu Lệ',
     role: 'Mầm non & Tiểu học',
-    bio: 'Chuyên gia giáo dục sớm chuyên ngành Phonics. Từng giảng dạy tại hệ thống song ngữ quốc tế.',
+    bio: 'Chuyên gia giáo dục sớm. Từng giảng dạy nhiều năm tại học viện Khổng Tử và hệ thống song ngữ.',
     avatar: '👩‍🏫',
-    country: 'UK',
-    flag: '🇬🇧',
+    country: 'Trung Quốc',
+    flag: '🇨🇳',
     bgClass: 'bg-gradient-to-br from-indigo-400 to-indigo-600',
-    certs: ['CELTA', 'B.A Education']
+    certs: ['CTCSOL', 'B.A Education']
   },
   {
-    name: 'James Wilson',
+    name: 'An Hạ My',
     role: 'Quản lý học thuật',
-    bio: 'Hơn 8 năm đào tạo Cambridge YLE. Có tài kể chuyện và luôn truyền năng lượng tích cực.',
-    avatar: '👨‍🏫',
-    country: 'USA',
-    flag: '🇺🇸',
-    bgClass: 'bg-gradient-to-br from-blue-400 to-blue-600',
-    certs: ['TESOL', 'M.Ed']
-  },
-  {
-    name: 'Emily Chen',
-    role: 'Giáo viên IELTS',
-    bio: 'Kinh nghiệm luyện thi chứng chỉ thực chiến. Áp dụng kỷ luật mềm giúp rèn giũa tự lập.',
+    bio: 'Hơn 8 năm đào tạo Hán Ngữ YCT. Có tài kể chuyện và luôn truyền tải văn hóa Trung Hoa một cách tự nhiên.',
     avatar: '👩‍💼',
-    country: 'Canada',
-    flag: '🇨🇦',
-    bgClass: 'bg-gradient-to-br from-teal-400 to-teal-600',
-    certs: ['DELTA', 'IELTS 8.5']
+    country: 'Việt Nam',
+    flag: '🇻🇳',
+    bgClass: 'bg-gradient-to-br from-blue-400 to-blue-600',
+    certs: ['HSK 6', 'M.Ed']
   },
   {
-    name: 'Michael Brown',
-    role: 'Giáo viên Giao Tiếp',
-    bio: 'Năng nổ, nhiệt huyết. Thích lồng ghép nghệ thuật âm nhạc và thực tiễn vào ngôn ngữ.',
+    name: 'Lý Tiểu Cương',
+    role: 'Giáo viên Khẩu Ngữ',
+    bio: 'Năng nổ, nhiệt huyết. Thích lồng ghép nghệ thuật thư pháp và thực tiễn vào ngôn ngữ.',
+    avatar: '👨‍🏫',
+    country: 'Đài Loan',
+    flag: '🇹🇼',
+    bgClass: 'bg-gradient-to-br from-teal-400 to-teal-600',
+    certs: ['TOCFL 6', 'Thạc sĩ Ngôn Ngữ']
+  },
+  {
+    name: 'Trần Đăng',
+    role: 'Giáo viên Nâng Cao',
+    bio: 'Kinh nghiệm luyện thi chứng chỉ HSK thực chiến. Áp dụng kỷ luật mềm giúp rèn giũa tự lập.',
     avatar: '🧑‍🏫',
-    country: 'Australia',
-    flag: '🇦🇺',
+    country: 'Việt Nam',
+    flag: '🇻🇳',
     bgClass: 'bg-gradient-to-br from-amber-400 to-amber-600',
-    certs: ['TEFL', 'M.A Linguistics']
+    certs: ['HSKK Cao cấp', 'Du học Trung Quốc']
   }
 ]
 </script>

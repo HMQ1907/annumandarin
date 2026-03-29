@@ -20,7 +20,7 @@
           </div>
 
           <h2 class="text-4xl lg:text-5xl font-extrabold text-indigo-950 mb-6 leading-[1.2]">
-            Hơn cả một nơi học tiếng Anh.
+            Hơn cả một nơi học tiếng Trung.
           </h2>
 
           <p class="text-lg text-gray-600 mb-10 leading-relaxed font-medium">
@@ -35,7 +35,7 @@
               </div>
               <div>
                 <h4 class="font-bold text-indigo-950 mb-1">Chuẩn Xác</h4>
-                <p class="text-sm text-gray-500 font-medium">Giáo trinh 100% chuẩn Cambridge & Oxford.</p>
+                <p class="text-sm text-gray-500 font-medium">Giáo trình chuẩn mực quốc tế, khơi nguồn kiến tạo.</p>
               </div>
             </div>
             <div class="flex gap-4">

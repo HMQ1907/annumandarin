@@ -61,38 +61,38 @@
 const steps = [
   {
     level: 'Starter', title: 'Khởi Đầu Khám Phá',
-    desc: 'Làm quen bảng chữ cái, số đếm, màu sắc qua bài hát, trò chơi. Giúp não bộ tập làm quen với ngữ điệu ngoại ngữ.',
-    skills: ['Alphabet', 'Vocabulary', 'Listening'],
+    desc: 'Làm quen hệ thống phát âm, nhận diện chữ cơ bản qua bài hát, trò chơi. Giúp não bộ tập làm quen với ngữ điệu ngoại ngữ.',
+    skills: ['Ngữ Âm', 'Từ Vựng', 'Nghe Hiểu'],
     colorClass: 'bg-purple-100 text-purple-700', borderClass: 'border-purple-500', textClass: 'text-purple-600 font-black'
   },
   {
     level: 'Elementary', title: 'Nền Tảng Vững Chắc',
-    desc: 'Học ghép vần (Phonics) chuẩn xác, thuộc từ vựng chủ đề gia đình, trường học. Hình thành câu giao tiếp đơn.',
-    skills: ['Phonics', 'Simple Sentences', 'Pronunciation'],
+    desc: 'Hình thành khả năng bắt chước âm điệu chuẩn xác, thuộc từ vựng chủ đề gia đình, trường học. Xây dựng câu giao tiếp đơn.',
+    skills: ['Phát Âm Chuẩn', 'Câu Đơn', 'Khẩu Ngữ'],
     colorClass: 'bg-pink-100 text-pink-700', borderClass: 'border-pink-500', textClass: 'text-pink-600 font-black'
   },
   {
     level: 'Pre-Intermediate', title: 'Phát Triển Đa Chiều',
-    desc: 'Bổ sung kỹ năng đọc hiểu đoạn văn ngắn và viết câu. Bắt đầu làm quen với dạng bài thi Cambridge Movers.',
-    skills: ['Reading', 'Writing', 'Movers Prep'],
+    desc: 'Bổ sung kỹ năng đọc hiểu văn bản ngắn và luyện viết. Rèn luyện phản xạ ngôn ngữ tự nhiên và mạch lạc.',
+    skills: ['Đọc Hiểu', 'Viết Cơ Bản', 'Phản Xạ'],
     colorClass: 'bg-indigo-100 text-indigo-700', borderClass: 'border-indigo-500', textClass: 'text-indigo-600 font-black'
   },
   {
     level: 'Intermediate', title: 'Tự Tin Biện Luận',
-    desc: 'Có khả năng hội thoại trôi chảy chủ đề thường nhật. Đọc hiểu bài dài, nắm vững ngữ pháp thi Flyers.',
-    skills: ['Fluent Speaking', 'Grammar', 'Flyers'],
+    desc: 'Có khả năng hội thoại trôi chảy chủ đề thường nhật. Đọc hiểu bài dài, nắm vững ngữ pháp ứng dụng.',
+    skills: ['Hội Thoại', 'Ngữ Pháp', 'Thuyết Trình'],
     colorClass: 'bg-teal-100 text-teal-700', borderClass: 'border-teal-500', textClass: 'text-teal-600 font-black'
   },
   {
     level: 'Upper-Intermediate', title: 'Sắc Bén Ngôn Từ',
-    desc: 'Giao tiếp ở mức sâu hơn (tư duy logic, bày tỏ quan điểm). Hoàn thiện bộ kỹ năng để thi chứng chỉ KET/PET.',
-    skills: ['Debate', 'Critical Thinking', 'KET/PET'],
+    desc: 'Giao tiếp ở mức sâu hơn (tư duy logic, bày tỏ quan điểm). Tương tác đa chiều trong các bối cảnh giao tiếp phức tạp.',
+    skills: ['Biện Luận', 'Tư Duy Logic', 'Tương Tác Sâu'],
     colorClass: 'bg-orange-100 text-orange-700', borderClass: 'border-orange-500', textClass: 'text-orange-600 font-black'
   },
   {
     level: 'Advanced', title: 'Hội Nhập Toàn Cầu',
-    desc: 'Giáo trình luyện thi IELTS chuyên sâu. Trang bị kỹ năng học thuật tiếng Anh, sẵn sàng môi trường quốc tế.',
-    skills: ['IELTS Academic', 'Essay', 'Presentation'],
+    desc: 'Trang bị kỹ năng tiếng Trung học thuật, hùng biện và có mặt trên các sân chơi sẵn sàng hội nhập môi trường quốc tế.',
+    skills: ['Học Thuật', 'Viết Luận', 'Tự Tin Toàn Cầu'],
     colorClass: 'bg-rose-100 text-rose-700', borderClass: 'border-rose-500', textClass: 'text-rose-600 font-black'
   }
 ]

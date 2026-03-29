@@ -29,7 +29,7 @@ const benefits = [
   {
     icon: '👨‍🏫',
     title: '100% Bản Xứ',
-    description: 'Giáo viên từ các nước nói tiếng Anh với chứng chỉ nghiệp vụ sư phạm quốc tế TESOL/CELTA.',
+    description: 'Đội ngũ giáo viên bản xứ chuyên môn cao với chứng chỉ nghiệp vụ sư phạm giảng dạy Hán Ngữ.',
     colorClass: 'bg-indigo-50 text-indigo-600'
   },
   {

@@ -3,6 +3,9 @@
     <!-- Hero Section with unique entrance -->
     <HeroSection />
 
+    <!-- Open Letter -->
+    <FounderLetter class="reveal-stagger" />
+
     <!-- Reveal sections as we scroll -->
     <IntroSection class="reveal" />
     <BenefitsSection class="reveal-stagger" />
@@ -31,7 +34,7 @@ import { useScrollReveal } from '~/composables/useScrollReveal'
 useHead({
   title: 'Annu Mandarin - Khởi Đầu Hoàn Hảo Cho Con',
   meta: [
-    { name: 'description', content: 'Trung tâm tiếng Anh online với 100% giáo viên bản xứ, trải nghiệm học bứt phá cho trẻ em.' }
+    { name: 'description', content: 'Trung tâm tiếng Trung online với trải nghiệm học bứt phá cho trẻ em.' }
   ]
 })
 

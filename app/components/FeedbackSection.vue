@@ -40,8 +40,8 @@
       <div class="mt-20 pt-10 border-t border-gray-200">
         <p class="text-center text-sm font-bold text-gray-400 uppercase tracking-widest mb-8">Đối Tác & Chứng Nhận</p>
         <div class="flex flex-wrap justify-center gap-10 md:gap-16 opacity-50 grayscale hover:grayscale-0 transition-all duration-500">
-          <div class="flex flex-col items-center gap-2"><span class="text-4xl">🏅</span><span class="text-xs font-bold text-gray-600">Cambridge ESOL</span></div>
-          <div class="flex flex-col items-center gap-2"><span class="text-4xl">📚</span><span class="text-xs font-bold text-gray-600">Oxford Press</span></div>
+          <div class="flex flex-col items-center gap-2"><span class="text-4xl">🏅</span><span class="text-xs font-bold text-gray-600">Đối Tác Giáo Dục Quốc Tế</span></div>
+          <div class="flex flex-col items-center gap-2"><span class="text-4xl">📚</span><span class="text-xs font-bold text-gray-600">Đại Học Đối Tác</span></div>
           <div class="flex flex-col items-center gap-2"><span class="text-4xl">📜</span><span class="text-xs font-bold text-gray-600">ISO 9001:2015</span></div>
           <div class="flex flex-col items-center gap-2"><span class="text-4xl">🌟</span><span class="text-xs font-bold text-gray-600">Top 10 Education</span></div>
         </div>
@@ -57,21 +57,21 @@ const reviews = [
     role: 'Phụ huynh bé Kitty (6 tuổi)',
     avatar: '👩',
     bgClass: 'bg-pink-400',
-    content: 'Từ lúc học lớp Phonics, con phát âm rõ và tây hơn hẳn. Về nhà lúc nào cũng bập bẹ hát bài hát tiếng Anh. Các cô ở trung tâm rất cưng chiều và nhẫn nại với bé.'
+    content: 'Từ lúc học lớp phát âm, con phát âm rõ và chuẩn rành rọt hẳn. Về nhà lúc nào cũng bập bẹ hát bài hát tiếng Trung. Các giáo viên ở trung tâm rất cưng chiều và nhẫn nại với bé.'
   },
   {
     name: 'Anh Trần Hoàng',
     role: 'Phụ huynh bé Tí Bo (9 tuổi)',
     avatar: '👨',
     bgClass: 'bg-indigo-400',
-    content: 'Đợt rồi con thi Movers đạt 15 khiên tối đa. Gia đình rất bất ngờ vì bình thường bé rụt rè, giờ lại mạnh dạn nói tiếng Anh với người nước ngoài. Cảm ơn Annu Mandarin!'
+    content: 'Đợt vừa rồi khả năng phản xạ của con vượt bậc rất rõ. Gia đình rất bất ngờ vì bình thường bé rụt rè, giờ lại mạnh dạn nói tiếng Trung với giáo viên bản xứ. Cảm ơn Annu Mandarin!'
   },
   {
     name: 'Chị Thu Phương',
     role: 'Phụ huynh bé Anna (14 tuổi)',
     avatar: '👩‍🦰',
     bgClass: 'bg-teal-400',
-    content: 'Lộ trình giáo viên xây dựng rất sát kỳ thi IELTS. Con không bị áp lực thành tích học thuộc lòng mà tiếp thu thông qua tranh luận debate rất tự nhiên.'
+    content: 'Lộ trình giáo viên xây dựng rất sát thực tế với tình huống hội thoại thường nhật. Con không bị áp lực thành tích học thuộc lòng mà tiếp thu thông qua tranh luận debate rất tự nhiên.'
   }
 ]
 </script>

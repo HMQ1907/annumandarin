@@ -54,16 +54,16 @@
           <h4 class="text-white font-bold text-lg mb-6 tracking-wide">Chương Trình Học</h4>
           <ul class="space-y-4 text-sm font-medium text-indigo-300">
             <li>
-              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">English Starters (3-5t)</NuxtLink>
+              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">KID 1 (Giai đoạn Bắt Đầu)</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">Young Learners (6-8t)</NuxtLink>
+              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">KID 2 - KID 3 (Cơ Bản)</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">Super Kids (8-11t)</NuxtLink>
+              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">KID 4 - KID 5 (Tư Duy Phát Triển)</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">IELTS Foundation (14-16t)</NuxtLink>
+              <NuxtLink to="/khoa-hoc" class="hover:text-white transition-colors">KID 6 (Nâng Cao - Đích Đến)</NuxtLink>
             </li>
           </ul>
         </div>

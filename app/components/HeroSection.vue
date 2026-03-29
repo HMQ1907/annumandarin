@@ -29,7 +29,7 @@
           <h1 class="text-5xl lg:text-6xl xl:text-7xl font-black text-indigo-950 leading-[1.15] mb-6 animate-fade-up delay-100">
             Khơi Dậy <br class="hidden lg:block" />
             <span class="gradient-text">Đam Mê</span> <br class="hidden lg:block" />
-            Tiếng Anh.
+            Tiếng Trung.
           </h1>
 
           <p class="text-lg lg:text-xl text-gray-600 mb-10 leading-relaxed font-medium animate-fade-up delay-200">
@@ -73,15 +73,15 @@
             
             <!-- Main Image -->
             <div class="relative bg-white p-3 rounded-[2rem] shadow-2xl rotate-2 hover:rotate-0 transition-transform duration-500 z-10">
-              <img src="/images/hero-banner.png" alt="Trẻ em vui học tiếng Anh" class="rounded-[1.5rem] w-full object-cover aspect-[4/3]" />
+              <img src="/images/hero-banner.png" alt="Trẻ em vui học tiếng Trung" class="rounded-[1.5rem] w-full object-cover aspect-[4/3]" />
             </div>
 
             <!-- Floating Badge Left -->
             <div class="absolute -left-8 top-12 bg-white rounded-2xl p-4 shadow-xl z-20 animate-float delay-100 flex items-center gap-3">
               <div class="w-12 h-12 bg-green-100 text-green-600 rounded-full flex items-center justify-center text-xl font-bold">✓</div>
               <div>
-                <div class="font-bold text-indigo-950 text-sm">Cambridge</div>
-                <div class="text-gray-500 text-xs font-semibold">Đối tác chuẩn</div>
+                <div class="font-bold text-indigo-950 text-sm">Giáo Trình</div>
+                <div class="text-gray-500 text-xs font-semibold">Chuẩn Quốc Tế</div>
               </div>
             </div>
 
